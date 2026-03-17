@@ -95,6 +95,7 @@ then start the database server by following command
 
 22.uvicorn main:app --reload --host 127.0.0.1
 In a new terminal migrate the truffle contract to local blockchain
+
 23.truffle migrate
 
 ## Learning Outcome
