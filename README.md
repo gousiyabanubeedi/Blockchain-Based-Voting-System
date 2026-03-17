@@ -58,20 +58,28 @@ git clone https://github.com/gousiyabanubeedi/blockchain-Based-Voting-System.git
 6.Add network to the metamask. ( Network name - Localhost 7575, RPC URl - http://localhost:7545, Chain ID - 1337, Currency symbol - ETH)
 
 7.Open MySQL and create database named voter_db.- In the database created, create new table named voters in the given format and add some values.
+
 8.Install truffle globally
+
 9.npm install -g truffle
+
 10.Go to the root directory of repo and install node modules
+
 11.npm install
+
 12.Install python dependencies
+
 13.pip install fastapi mysql-connector-python pydantic python-dotenv uvicorn uvicorn[standard] PyJWT
 Usage
 Note: Update the database credentials in the ./Database_API/.env file.
 Open terminal at the project directory
 
 14.Open Ganache and it's development workspace.
+
 15.open terminal in project's root directory and run the command
 
 16.truffle console - then compile the smart contracts with command
+
 17.compile - exit the truffle console
 
 18.Bundle app.js with browserify
