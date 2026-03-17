@@ -61,12 +61,6 @@ Download and install Ganache.
 7.Open MySQL and create database named voter_db. (DON'T USE XAMPP)
 
 8.In the database created, create new table named voters in the given format and add some values.
-
-    CREATE TABLE voters (
-    voter_id VARCHAR(36) PRIMARY KEY NOT NULL,
-    role ENUM('admin', 'user') NOT NULL,
-    password VARCHAR(255) NOT NULL
-    );
 9.Install truffle globally
 10.npm install -g truffle
 11.Go to the root directory of repo and install node modules
