@@ -28,7 +28,6 @@ Votes are stored on the blockchain using smart contracts, ensuring transparency 
 
 ## Project Structure
 dVoting
-│
 ├── client
 ├── contracts
 ├── migrations
