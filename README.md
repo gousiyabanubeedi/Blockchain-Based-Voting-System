@@ -47,7 +47,7 @@ dVoting
 1.Open a terminal.
 
 2.Clone the repository by using the command
-git clone https://github.com/
+git clone https://github.com/gousiyabanubeedi/blockchain-Based-Voting-System.git
 Download and install Ganache.
 
 3.Create a workspace named developement, in the truffle projects section add truffle-config.js by clicking ADD PROJECT button.
