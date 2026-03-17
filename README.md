@@ -30,8 +30,8 @@ Votes are stored on the blockchain using smart contracts, ensuring transparency 
 dVoting                                                                                                                                                                                                            
 ├── client                                                                                                                                                                                                    
 ├── contracts                                                                                
-├── migrations
-├── truffle-config.js
+├── migrations                                                                                                                                                                                    
+├── truffle-config.js                                                                                                                                                                                         
 └── README.md
 
 ## How the System Works
